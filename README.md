@@ -6,3 +6,6 @@ One of the important ways humans display emotions is through facial expressions.
 
 # Project Working Flow Chart 
 ![2](https://user-images.githubusercontent.com/64844201/187325756-1e866f8b-b87e-4670-b7d3-c6f51b7b8b6e.jpg)
+![1](https://user-images.githubusercontent.com/64844201/187327559-e387e10e-4209-42a6-ab07-fa249e711a16.jpg)
+# Confusion Matrix
+![4](https://user-images.githubusercontent.com/64844201/187327606-70974f43-168c-49a0-a122-5c1f92402c43.png)
