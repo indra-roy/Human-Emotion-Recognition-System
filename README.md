@@ -4,3 +4,5 @@ One of the important ways humans display emotions is through facial expressions.
 # CNN Model Building
 ![image](https://user-images.githubusercontent.com/64844201/187325547-5a78a197-dc3f-4c58-8014-96f0be78cd62.png)
 
+# Project Working Flow Chart 
+![2](https://user-images.githubusercontent.com/64844201/187325756-1e866f8b-b87e-4670-b7d3-c6f51b7b8b6e.jpg)
